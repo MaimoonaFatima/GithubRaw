@@ -8,7 +8,7 @@ info:
   x-audience: company-internal
 schemes:
   - https
-basePath: /
+basePath: a.com
 security:
   - OAuth:
       - ScopeA
